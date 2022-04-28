@@ -1,5 +1,45 @@
 # Numbers With Python
-Numbers With Python is a real world application Python.
+Numbers With Python is a real world application Python. 
+
+* For loops
+* Reading Csv files
+* Reading and writing txt files
+* Creating variables
+* Appending data
+
 
 ![](Images/python-logo.jpeg)
+
 ## PyBank
+
+Create a script analyxing financial records of a company using finiacial data. 
+
+![](Images/revenue-per-lead.png)
+
+Calculate total number of months int the dataset. Net total amount of "Profit/Losses" over the period. Calculate the changes in "Profit/Losses over the period. Average "Profit and Loss" change every month. Find the greatest increase in profit (date and amount), find th greatest decrease in profits (date and amount) pver the entire period.
+
+![](Images/Financial_analysis.jpg)
+
+## Pypoll
+
+Create a python script to modernize the vote counting process of a rural town.
+
+![](Images/Vote_counting.png)
+
+Total the number of votes. Complete list of candiddates who received votes. 
+Calculate the percentage of votes each candidate won. Calculate the total number of votes each candidate won. Find the winner of the election based on popular vote. 
+
+![](Images/pypoll_results.jpg)
+
+## Summary
+
+Numbers with Python is solves real world problems using tools in the python programming languauge. Importing modules like csv, storing content in variables, list and dictionary to iterate through big data scructures and debugging are skills used to accomplish this task.
+
+Importing modules and creating variables to store data
+![](Images/importing_csv_variables.jpg)
+
+Reading csv using a for loop and appending data
+![](Images/readingcsv_and_forloop.jpg)
+
+Writing a text file
+![](Images/writing_txtfile.jpg)
