@@ -1,16 +1,16 @@
 # Numbers With Python
-Numbers With Python is a real world application Python. 
-
-* For loops
-* Reading Csv files
-* Writing txt files
-* Creating variables
-* Appending data
-
-
 ![](Images/python-logo.jpeg)
 
-## PyBank
+## Table of Contents
+* [General Info](#general-info)
+* [Technologies Info](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+
+## General Ingo
+Numbers With Python is a real world application Python. Numbers with Python solve real world problems using tools in the python programming languauge. Importing modules like csv, storing content in variables, list and dictionary to iterate through big data scructures and debugging are skills used to accomplish this task.
+
+### PyBank
 
 Create a script analyzing financial records of a company using finiacial data. 
 
@@ -20,7 +20,7 @@ Calculate total number of months in the dataset. Net total amount of "Profit/Los
 
 ![](Images/Financial_analysis.jpg)
 
-## Pypoll
+### Pypoll
 
 Create a python script to modernize the vote counting process of a rural town.
 
@@ -31,10 +31,32 @@ Calculate the percentage of votes each candidate won. Calculate the total number
 
 ![](Images/pypoll_results.jpg)
 
-## Summary
+## Technologies
+* Pyton
+* For loops
+* Reading Csv files
+* Writing txt files
+* Creating variables
+* Appending data
 
-Numbers with Python solve real world problems using tools in the python programming languauge. Importing modules like csv, storing content in variables, list and dictionary to iterate through big data scructures and debugging are skills used to accomplish this task.
 
+## Set up
+To run this project install it locally:
+```
+$ cd ../Numbers-WIth-Python/Pybank/PyBank
+$ python main.py
+$ cd ../Numbers-WIth-Python/Pypoll
+$ python main.py
+```
+
+
+
+## Features
+Election Analysis
+![](ElectionAnalysis.png)
+
+FInancial Analysis
+![](Finacial_Analysis.png)
 Importing modules and creating variables to store data.
 ![](Images/importing_csv_variables.jpg)
 
