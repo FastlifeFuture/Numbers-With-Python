@@ -53,10 +53,11 @@ $ python main.py
 
 ## Features
 Election Analysis
-![](ElectionAnalysis.png)
+![](Images/ElectionAnalysis.png)
 
 FInancial Analysis
-![](Finacial_Analysis.png)
+![](Images/Finacial_Analysis.png)
+
 Importing modules and creating variables to store data.
 ![](Images/importing_csv_variables.jpg)
 
