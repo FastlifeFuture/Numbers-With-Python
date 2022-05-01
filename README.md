@@ -7,7 +7,7 @@
 * [Setup](#setup)
 * [Features](#features)
 
-## General Ingo
+## General Info
 Numbers With Python is a real world application Python. Numbers with Python solve real world problems using tools in the python programming languauge. Importing modules like csv, storing content in variables, list and dictionary to iterate through big data scructures and debugging are skills used to accomplish this task.
 
 ### PyBank
