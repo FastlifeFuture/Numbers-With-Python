@@ -44,10 +44,11 @@ Calculate the percentage of votes each candidate won. Calculate the total number
 
 ## Set up
 To run this project install it locally:
+Navigate into directory
 ```
-$ cd ../Numbers-WIth-Python/Pybank/PyBank
+$ cd /Numbers-With-Python/Pybank/PyBank
 $ python main.py
-$ cd ../Numbers-WIth-Python/Pypoll
+$ cd /Numbers-With-Python/Pypoll
 $ python main.py
 ```
 
@@ -57,7 +58,7 @@ $ python main.py
 Election Analysis
 ![](Images/ElectionAnalysis.png)
 
-FInancial Analysis
+Financial Analysis
 ![](Images/Finacial_Analysis.png)
 
 Importing modules and creating variables to store data.
