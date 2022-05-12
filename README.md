@@ -1,4 +1,6 @@
 # Numbers With Python
+Read csv's, writing texts files and Forloops
+
 ![](Images/python-logo.jpeg)
 
 ## Table of Contents
