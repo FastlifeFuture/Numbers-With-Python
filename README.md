@@ -1,5 +1,5 @@
 # Numbers With Python
-Read csv's, writing texts files and Forloops
+Reading csv's, writing .txt files and For loops
 
 ![](Images/python-logo.jpeg)
 
