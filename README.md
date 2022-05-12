@@ -34,7 +34,7 @@ Calculate the percentage of votes each candidate won. Calculate the total number
 ![](Images/pypoll_results.jpg)
 
 ## Technologies
-* Pyton
+* Python
 * For loops
 * Reading Csv files
 * Writing txt files
