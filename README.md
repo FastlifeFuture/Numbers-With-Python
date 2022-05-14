@@ -6,7 +6,7 @@ Reading csv's, writing .txt files and For loops
 ## Table of Contents
 * [General Info](#general-info)
 * [Technologies Info](#technologies)
-* [Setup](#setup)
+* [Setup](#Setup)
 * [Features](#features)
 
 ## General Info
